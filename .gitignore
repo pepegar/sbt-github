@@ -3,3 +3,7 @@
 target
 .scalafix.conf
 .scalafmt.conf
+.bloop/
+.metals/
+project/.bloop/
+project/metals.sbt
